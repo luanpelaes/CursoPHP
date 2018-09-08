@@ -1,5 +1,6 @@
-lo<?php
+<?php
 
-echo "hell world!";
+echo "hello world!";
+echo "ola mundo";
 
 ?>
