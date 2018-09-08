@@ -1,5 +1,5 @@
-<?php
+lo<?php
 
-echo "olá teste";
+echo "hell world!";
 
 ?>
